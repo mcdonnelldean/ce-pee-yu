@@ -1,5 +1,5 @@
 * [Home](/)
-* [Introduction](/)
+* [Introduction](/pages/introduction.md)
 * [Modules](/)
   * [Clock](/)
     *  [Oscillator A](/)
