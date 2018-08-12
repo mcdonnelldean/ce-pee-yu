@@ -29,11 +29,38 @@ In our case, we require two oscillators, one to cover single tick oscillation, a
 
 - To do...
 
-
 ## Circuit Diagram
+
+![Clock Diagram](/kicad/clock/clock.svg)
+
+### Breakdown
 
 - To do...
 
-### Breakdown
+### Power In - General
+
+- To do...
+
+### Power In - IC's
+
+- To do...
+
+### Haltable Signal Out
+
+- To do...
+
+### Debounced Oscillator Select
+
+- To do...
+
+### Oscillator A & B In
+
+- To do...
+
+### Halt In
+
+- To do...
+
+### Clock Out
 
 - To do...
