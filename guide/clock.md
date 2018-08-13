@@ -16,24 +16,19 @@ In day to day computing, a CPU runs at a fixed speed or a small range. In our ca
 
 With the above in mind, the design for our clock is modular. The clock circuit itself supports two external oscillators which can be switched on the fly, as well as the ability to halt.
 
-## The Oscillators
-A clocks timing signal is produced by an oscillator, which is a fancy way for saying something that vibrates or swings back and forth. The speed, or frequency, of clock is the number of times an oscillator swings back and forth per second. It is measured in Hertz.
-
-In our case, we require two oscillators, one to cover single tick oscillation, and the other to provide configurable range. As these components are modules unto themselves, they are only briefly discussed below, follow the links in each sub section to explore each oscillator in more detail.
-
-### Oscillator A
-
-- To do...
-
-### Oscillator B
-
-- To do...
-
 ## Circuit Diagram
 
 ![Clock Diagram](../kicad/clock/clock.svg)
 
-### Breakdown
+## Printed Circuit Diagram Front
+
+![Clock PCB Front](../kicad/clock/clock_pcb_front.png)
+
+## Printed Circuit Diagram Back
+
+![Clock PCB Back](../kicad/clock/clock_pcb_back.png)
+
+## Breakdown
 
 - To do...
 
