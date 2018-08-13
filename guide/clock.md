@@ -31,7 +31,7 @@ In our case, we require two oscillators, one to cover single tick oscillation, a
 
 ## Circuit Diagram
 
-![Clock Diagram](kicad/clock/clock.svg)
+![Clock Diagram](/kicad/clock/clock.svg)
 
 ### Breakdown
 
