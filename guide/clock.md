@@ -39,7 +39,7 @@ __Tip:__ _LS IC's can be substituted with HCT but not HC variants. eg 74HCT04. a
 ![Clock PCB Front](../kicad/clock/clock_pcb_front.png)
 
 ### Printed Circuit Board - Back
-![Clock PCB Back](../kicad/clock/clock_pcb_back.png)
+Todo...
 
 ## Breakdown
 
