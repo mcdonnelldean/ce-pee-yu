@@ -1,9 +1,8 @@
 
 * Getting started
-  * [What is a computer](/guide/what-is-a-computer.md)
-  * [Electronics 101](/guide/electronics-101.md)
-  * [Where to buy](/guide/where-to-buy.md)
-  * [Parts lists](/guide/parts-lists.md)
+  * [Introduction](/guide/introduction.md)
+  * [Where to buy parts](/guide/where-to-buy-parts.md)
+  * [Print your own boards](/guide/print-your-own-boards.md)
 * Modules
   * [Oscillator A](/guide/oscillator-a.md)
   * [Oscillator B](/guide/oscillator-b.md)
