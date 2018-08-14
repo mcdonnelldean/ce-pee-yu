@@ -11,21 +11,18 @@ However, because CeePeeYu is a living study, it is likely to be wrong, incomplet
 The ideal end state for CeePeeYu, is a modular set of 'parts' that can be put together to form different sorts of simple CPU's. In terms of complexity the hope is to eventually be able to run very simple C code (likely enough to compute the fibonacci sequence).
 
 ## Table of Contents
-
 * Getting started
-  * [What is a computer](/guide/what-is-a-computer.md)
-  * [Electronics 101](/guide/electronics-101.md)
-  * [Where to buy](/guide/where-to-buy.md)
-  * [Parts lists](/guide/parts-lists.md)
+  * [Introduction](/guide/introduction.md)
+  * [Where to buy parts](/guide/where-to-buy-parts.md)
+  * [Print your own boards](/guide/print-your-own-boards.md)
 * Modules
-  * [Clock](/guide/clock)
   * [Oscillator A](/guide/oscillator-a.md)
-  * [Oscillator B](/guide/oscillator-a.md)
+  * [Oscillator B](/guide/oscillator-b.md)
+  * [Clock](/guide/clock)
   * [Signal Bus](/guide/signal-bus.md)
-  * [Registers](/)
-    * [Register A](/)
-    * [Register B](/)
-    * [Register IR](/)
+  * [Register A](/)
+  * [Register B](/)
+  * [Register IR](/)
   * [Arithmetic and Logic Unit](/)
   * [Random Access Memory](/)
   * [Program Counter](/)
