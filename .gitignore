@@ -25,3 +25,6 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# Mac finder goop
+.DS_Store
