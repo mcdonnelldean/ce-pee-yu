@@ -39,27 +39,32 @@ __Tip:__ _LS IC's can be substituted with HCT but not HC variants. eg 74HCT04. a
 ![Clock PCB Front](../kicad/clock/clock_pcb_front.png)
 
 ### Printed Circuit Board - Back
-![Clock PCB Back](../kicad/clock/clock_pcb_back.png)
+Todo...
 
 ## Breakdown
-
 - To do...
 
 ### Power In - General
+5V and GND are provided to the board via a 2 pin (male or female) connector. Given this is the entry point of the board a 10uF electrolytic cap is for power smoothing.
 
-- To do...
+Eagle-eyed viewers may be pondering the little diamonds in the power circuit. These tell KiCad (and the reader), this is where power is being sourced from.
+
 
 ### Power In - IC's
+I opted to show the 3 logic IC's as logical components, this splits the power pins into their own little blocks. This has a nice side effect of being able to clearly add decoupling caps without complicating the logic pins.
 
-- To do...
+The IC's 74LS04/08/32 are handled here. The timer IC is handled separately.
+
+### Debounced Oscillator Select
+The controller needs a button with two states so we can select either Oscillator A and B. For our purposes a double poll, single throw switch would suffice but the physical button we are using is actually double poll, double throw; hence the schematic button being 1 side of a DPDT switch.
+
+The switch is connected to a 55 timer acting as an SR Latch. We need to debounce the mechanical switch because it might 'bounce'.
 
 ### Haltable Signal Out
 
 - To do...
 
-### Debounced Oscillator Select
 
-- To do...
 
 ### Oscillator A & B In
 
