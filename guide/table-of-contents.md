@@ -8,6 +8,7 @@
   * [Oscillator B](/guide/oscillator-b.md)
   * [Clock Controller](/guide/clock.md)
   * [Power and Signal Bus](/guide/signal-bus.md)
+  * [Bus Indicator](/guide/bus-indicator.md)
   * [Register A](/guide/register-a.md)
   * [Register B](/guide/register-b.md)
   * [Register IR](/guide/register-ir.md)
